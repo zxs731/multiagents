@@ -19,8 +19,8 @@
 ## 安装步骤
 1. 克隆本仓库
    ```bash
-   git clone <your-repo-url>
-   cd <your-repo>
+   git clone https://github.com/zxs731/multiagents.git
+   cd multiagents
    ```
 2. 安装依赖
    ```bash
