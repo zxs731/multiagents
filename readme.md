@@ -58,7 +58,7 @@ streamlit run app.py
 ```
 
 首次运行会自动创建和维护每个助手的对话历史（JSON文件保存在 histories 目录下）。
-
+![项目界面预览](run.jpg)
 ## 目录结构
 - `app.py`          主应用入口
 - `config.json`     助手配置文件
